@@ -1,0 +1,111 @@
+2022-01-25 17:54:06.353 24048-24122/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 17:54:16.498 24048-24130/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 17:54:16.498 24048-24130/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 17:54:16.534 24048-24130/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 17:54:23.716 24048-24130/app.swapper D/AudioRecorderService: _wm No watermark detected
+2022-01-25 17:54:23.721 24048-24122/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 17:54:33.831 24048-24141/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 17:54:33.832 24048-24141/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 17:54:33.850 24048-24141/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 17:55:05.517 24048-24141/app.swapper D/AudioRecorderService: _wm wmark result pattern  0:00 6e77831f9b0bc45703911021bbc48634 1.461 0.766 CLIP-B
+2022-01-25 17:55:05.532 24048-24141/app.swapper D/AudioRecorderService: _wm Send wm request data: [{"date":"2022-1-25 05:55:05","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"6e77831f9b0bc45703911021bbc48634"}]
+2022-01-25 17:55:05.534 24048-24141/app.swapper D/AudioRecorderService: _wm Send wm request data 2: {"watermarks":[{"date":"2022-1-25 05:55:05","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"6e77831f9b0bc45703911021bbc48634"}]}
+2022-01-25 17:55:05.540 24048-24123/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 17:55:13.279 24048-24122/app.swapper D/AudioRecorderService: _wm Send wm early Response{protocol=http/1.1, code=200, message=OK, url=https://swapper.media/public/app/api/events}
+2022-01-25 17:55:15.636 24048-24154/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 17:55:15.636 24048-24154/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 17:55:15.646 24048-24154/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 17:55:48.388 24048-24154/app.swapper D/AudioRecorderService: _wm wmark result pattern  0:00 6e2aa3abb2cdfaed4a711021bbc48634 1.271 0.768 CLIP-A
+2022-01-25 17:55:48.393 24048-24154/app.swapper D/AudioRecorderService: _wm Send wm request data: [{"date":"2022-1-25 05:55:48","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"6e2aa3abb2cdfaed4a711021bbc48634"}]
+2022-01-25 17:55:48.394 24048-24154/app.swapper D/AudioRecorderService: _wm Send wm request data 2: {"watermarks":[{"date":"2022-1-25 05:55:48","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"6e2aa3abb2cdfaed4a711021bbc48634"}]}
+2022-01-25 17:55:48.398 24048-24123/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 17:55:49.222 24048-24122/app.swapper D/AudioRecorderService: _wm Send wm early Response{protocol=http/1.1, code=200, message=OK, url=https://swapper.media/public/app/api/events}
+2022-01-25 17:55:58.493 24048-24192/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 17:55:58.493 24048-24192/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 17:55:58.504 24048-24192/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 17:56:31.746 24048-24192/app.swapper D/AudioRecorderService: _wm wmark result pattern  0:00 6e2aa3abb2cdfaed4a711021bbc48634 1.465 0.462 CLIP-B
+2022-01-25 17:56:31.753 24048-24192/app.swapper D/AudioRecorderService: _wm Send wm request data: [{"date":"2022-1-25 05:56:31","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"6e2aa3abb2cdfaed4a711021bbc48634"}]
+2022-01-25 17:56:31.755 24048-24192/app.swapper D/AudioRecorderService: _wm Send wm request data 2: {"watermarks":[{"date":"2022-1-25 05:56:31","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"6e2aa3abb2cdfaed4a711021bbc48634"}]}
+2022-01-25 17:56:31.760 24048-24123/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 17:56:34.787 24048-24123/app.swapper D/AudioRecorderService: _wm Send wm early Response{protocol=http/1.1, code=200, message=OK, url=https://swapper.media/public/app/api/events}
+2022-01-25 17:56:41.853 24048-24209/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 17:56:41.853 24048-24209/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 17:56:41.862 24048-24209/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 17:57:17.402 24048-24209/app.swapper D/AudioRecorderService: _wm wmark result pattern  0:00 288beccab9ed0951635870e23bc48634 1.109 0.768 CLIP-B
+2022-01-25 17:57:17.406 24048-24209/app.swapper D/AudioRecorderService: _wm Send wm request data: [{"date":"2022-1-25 05:57:17","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"288beccab9ed0951635870e23bc48634"}]
+2022-01-25 17:57:17.407 24048-24209/app.swapper D/AudioRecorderService: _wm Send wm request data 2: {"watermarks":[{"date":"2022-1-25 05:57:17","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"288beccab9ed0951635870e23bc48634"}]}
+2022-01-25 17:57:17.410 24048-24122/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 17:57:18.306 24048-24123/app.swapper D/AudioRecorderService: _wm Send wm early Response{protocol=http/1.1, code=200, message=OK, url=https://swapper.media/public/app/api/events}
+2022-01-25 17:57:27.494 24048-24224/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 17:57:27.494 24048-24224/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 17:57:27.507 24048-24224/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 17:58:04.112 24048-24224/app.swapper D/AudioRecorderService: _wm wmark result pattern  0:00 6e2aa3ae0746c9ac558d83f571648634 1.152 0.757 CLIP-A
+2022-01-25 17:58:04.116 24048-24224/app.swapper D/AudioRecorderService: _wm Send wm request data: [{"date":"2022-1-25 05:58:04","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"6e2aa3ae0746c9ac558d83f571648634"}]
+2022-01-25 17:58:04.117 24048-24224/app.swapper D/AudioRecorderService: _wm Send wm request data 2: {"watermarks":[{"date":"2022-1-25 05:58:04","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"6e2aa3ae0746c9ac558d83f571648634"}]}
+2022-01-25 17:58:04.122 24048-24122/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 17:58:07.152 24048-24123/app.swapper D/AudioRecorderService: _wm Send wm early Response{protocol=http/1.1, code=200, message=OK, url=https://swapper.media/public/app/api/events}
+2022-01-25 17:58:14.212 24048-24242/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 17:58:14.212 24048-24242/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 17:58:14.228 24048-24242/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 17:58:54.350 24048-24242/app.swapper D/AudioRecorderService: _wm wmark result pattern  0:00 6e2aa3abb2cdfaed4a711021bbc48634 1.486 0.734 CLIP-B
+2022-01-25 17:58:54.357 24048-24242/app.swapper D/AudioRecorderService: _wm Send wm request data: [{"date":"2022-1-25 05:58:54","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"6e2aa3abb2cdfaed4a711021bbc48634"}]
+2022-01-25 17:58:54.359 24048-24242/app.swapper D/AudioRecorderService: _wm Send wm request data 2: {"watermarks":[{"date":"2022-1-25 05:58:54","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"6e2aa3abb2cdfaed4a711021bbc48634"}]}
+2022-01-25 17:58:54.365 24048-24122/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 17:58:55.080 24048-24123/app.swapper D/AudioRecorderService: _wm Send wm early Response{protocol=http/1.1, code=200, message=OK, url=https://swapper.media/public/app/api/events}
+2022-01-25 17:59:04.470 24048-24255/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 17:59:04.471 24048-24255/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 17:59:04.487 24048-24255/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 17:59:12.578 24048-24255/app.swapper D/AudioRecorderService: _wm No watermark detected
+2022-01-25 17:59:12.582 24048-24123/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 17:59:22.679 24048-24130/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 17:59:22.681 24048-24130/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 17:59:22.694 24048-24130/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 17:59:32.547 24048-24130/app.swapper D/AudioRecorderService: _wm No watermark detected
+2022-01-25 17:59:32.552 24048-24123/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 17:59:42.635 24048-24141/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 17:59:42.635 24048-24141/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 17:59:42.641 24048-24141/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 17:59:55.133 24048-24141/app.swapper D/AudioRecorderService: _wm No watermark detected
+2022-01-25 17:59:55.138 24048-24123/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 18:00:05.225 24048-24154/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 18:00:05.226 24048-24154/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 18:00:05.244 24048-24154/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 18:00:20.346 24048-24154/app.swapper D/AudioRecorderService: _wm No watermark detected
+2022-01-25 18:00:20.350 24048-24123/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 18:00:30.490 24048-24192/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 18:00:30.490 24048-24192/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 18:00:30.573 24048-24192/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 18:01:31.676 24048-24192/app.swapper D/AudioRecorderService: _wm wmark result pattern  0:00 65d77619986cc88ae58cb6c1a0c560b2 1.058 0.619 CLIP-B
+2022-01-25 18:01:31.686 24048-24192/app.swapper D/AudioRecorderService: _wm Send wm request data: [{"date":"2022-1-25 06:01:31","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"65d77619986cc88ae58cb6c1a0c560b2"}]
+2022-01-25 18:01:31.689 24048-24192/app.swapper D/AudioRecorderService: _wm Send wm request data 2: {"watermarks":[{"date":"2022-1-25 06:01:31","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"65d77619986cc88ae58cb6c1a0c560b2"}]}
+2022-01-25 18:01:31.693 24048-24122/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 18:01:35.029 24048-24123/app.swapper D/AudioRecorderService: _wm Send wm early Response{protocol=http/1.1, code=200, message=OK, url=https://swapper.media/public/app/api/events}
+2022-01-25 18:01:41.831 24048-24209/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 18:01:41.831 24048-24209/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 18:01:41.852 24048-24209/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 18:02:39.117 24048-24209/app.swapper D/AudioRecorderService: _wm wmark result pattern  0:00 65d72d4b87da8987508d25742b84f952 1.469 0.671 CLIP-A
+2022-01-25 18:02:39.124 24048-24209/app.swapper D/AudioRecorderService: _wm Send wm request data: [{"date":"2022-1-25 06:02:39","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"65d72d4b87da8987508d25742b84f952"}]
+2022-01-25 18:02:39.126 24048-24209/app.swapper D/AudioRecorderService: _wm Send wm request data 2: {"watermarks":[{"date":"2022-1-25 06:02:39","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"65d72d4b87da8987508d25742b84f952"}]}
+2022-01-25 18:02:39.131 24048-24122/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 18:02:41.999 24048-24123/app.swapper D/AudioRecorderService: _wm Send wm early Response{protocol=http/1.1, code=200, message=OK, url=https://swapper.media/public/app/api/events}
+2022-01-25 18:02:49.282 24048-24224/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 18:02:49.282 24048-24224/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 18:02:49.295 24048-24224/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 18:04:17.213 24048-24224/app.swapper D/AudioRecorderService: _wm wmark result pattern  0:00 65d72d4b87da8987508d25742b84f952 1.456 0.714 CLIP-B
+2022-01-25 18:04:17.221 24048-24224/app.swapper D/AudioRecorderService: _wm Send wm request data: [{"date":"2022-1-25 06:04:17","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"65d72d4b87da8987508d25742b84f952"}]
+2022-01-25 18:04:17.222 24048-24224/app.swapper D/AudioRecorderService: _wm Send wm request data 2: {"watermarks":[{"date":"2022-1-25 06:04:17","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"65d72d4b87da8987508d25742b84f952"}]}
+2022-01-25 18:04:17.237 24048-24123/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 18:04:20.202 24048-24123/app.swapper D/AudioRecorderService: _wm Send wm early Response{protocol=http/1.1, code=200, message=OK, url=https://swapper.media/public/app/api/events}
+2022-01-25 18:04:27.400 24048-24242/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 18:04:27.400 24048-24242/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 18:04:27.417 24048-24242/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 18:04:40.718 24048-24242/app.swapper D/AudioRecorderService: _wm No watermark detected
+2022-01-25 18:04:40.722 24048-24123/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 18:04:50.820 24048-24255/app.swapper D/AudioRecorderService: _wm targetFilename /storage/emulated/0/Android/data/app.swapper/files/../audio.wav
+2022-01-25 18:04:50.820 24048-24255/app.swapper D/AudioRecorderService: _wm targetFilename can write true
+2022-01-25 18:04:50.836 24048-24255/app.swapper D/AudioRecorderService: _wm sendData result 0
+2022-01-25 18:05:53.685 24048-24255/app.swapper D/AudioRecorderService: _wm wmark result pattern  0:00 65d72d4b87da8987508d25742b84f952 0.818 0.753 CLIP-B
+2022-01-25 18:05:53.710 24048-24255/app.swapper D/AudioRecorderService: _wm Send wm request data: [{"date":"2022-1-25 06:05:53","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"65d72d4b87da8987508d25742b84f952"}]
+2022-01-25 18:05:53.739 24048-24255/app.swapper D/AudioRecorderService: _wm Send wm request data 2: {"watermarks":[{"date":"2022-1-25 06:05:53","email":"leo.sandoval@equilibrio.agency","event_type":"radio","latitude":"10.4933958","location":"Caracas, Venezuela","longitude":"-66.8273089","segment":"1","time":"00:00:10","watermark":"65d72d4b87da8987508d25742b84f952"}]}
+2022-01-25 18:05:53.753 24048-24122/app.swapper D/AudioRecorderService:  _wm Saving recorded file to /storage/emulated/0/Android/data/app.swapper/files/Swapper/myrec.wav
+2022-01-25 18:05:56.665 24048-24123/app.swapper D/AudioRecorderService: _wm Send wm early Response{protocol=http/1.1, code=200, message=OK, url=https://swapper.media/public/app/api/events}
